@@ -8,6 +8,7 @@ Shopping Cart – Fullstack Assignment
 # How to Run the Project
 1. Clone the Repository
 git clone <https://github.com/prabhanshu451/Shoppingcart_Prabhanshu_Upadhyay_2200971630048.git>
+
 cd shopping-cart
 
 # Backend Setup (Go)
@@ -90,17 +91,17 @@ You can find the Postman collection here:
 
 # Project Structure
 backend/
-  handlers.go
-  models.go
-  router.go
-  middleware.go
-  shopping.db
+  handlers.go,
+  models.go,
+  router.go,
+  middleware.go,
+  shopping.db,
 
 frontend/
   src/
-    Login.js
-    Items.js
-    apis.js
+    Login.js,
+    Items.js,
+    apis.js,
   public/
   package.json
 
