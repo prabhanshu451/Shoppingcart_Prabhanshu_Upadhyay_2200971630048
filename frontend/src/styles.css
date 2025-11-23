@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+.login { max-width: 300px; margin: 0 auto; }
+.items-list { display: flex; gap: 12px; flex-wrap: wrap; }
+.item { border: 1px solid #ddd; padding: 12px; width: 140px; cursor: pointer; border-radius: 6px; }
+.topbar { display: flex; gap: 8px; margin-bottom: 12px; }
+button { padding: 8px 12px; }
